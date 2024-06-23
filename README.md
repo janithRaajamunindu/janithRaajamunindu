@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janithraajamunindu&label=Profile%20views&color=0e75b6&style=flat" alt="janithraajamunindu" /> </p>
 
-- 🌱 I’m currently learning **MEARN**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **php, Java, C**
 
